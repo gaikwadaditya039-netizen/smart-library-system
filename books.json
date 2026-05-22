@@ -1,0 +1,61 @@
+[
+    {
+        "title": "aditya",
+        "author": "adi",
+        "issued": false
+    },
+    {
+        "title": "aditya",
+        "author": "adi",
+        "issued": false
+    },
+    {
+        "title": "s",
+        "author": "s",
+        "issued": false,
+        "issue_date": "",
+        "return_date": ""
+    },
+    {
+        "title": "fairy tale",
+        "author": "adi",
+        "issued": true,
+        "issue_date": "16-05-2026",
+        "return_date": "23-05-2026"
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "issued": false,
+        "issue_date": "",
+        "return_date": ""
+    },
+    {
+        "title": "m3",
+        "author": "samarth",
+        "issued": true,
+        "issue_date": "19-05-2026",
+        "return_date": "26-05-2026"
+    },
+    {
+        "title": "s",
+        "author": "s",
+        "issued": false,
+        "issue_date": "",
+        "return_date": ""
+    },
+    {
+        "title": "e",
+        "author": "e",
+        "issued": false,
+        "issue_date": "",
+        "return_date": ""
+    },
+    {
+        "title": "s",
+        "author": "s",
+        "issued": false,
+        "issue_date": "",
+        "return_date": ""
+    }
+]
